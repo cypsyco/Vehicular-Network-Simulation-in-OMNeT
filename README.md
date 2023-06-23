@@ -17,3 +17,7 @@ SUMO: Version 0.32.0
 Veins: Version 4.7.1
 
 INET Framework: Version 4.0.0
+
+<p align="center">
+  <img src="https://github.com/cypsyco/Vehicular-Network-Simulation-in-OMNeT/assets/137145628/d2f56675-1666-44e4-bf2c-2cdd9c49f801">
+</p>
